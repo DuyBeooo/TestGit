@@ -10,7 +10,11 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Hello Main!");
+=======
+            Console.WriteLine("Hello Duy!");
+>>>>>>> afabcba972663ed316e271892e7d3acefe16d5a7
         }
     }
 }
